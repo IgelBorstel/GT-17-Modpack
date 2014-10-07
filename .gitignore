@@ -9,3 +9,4 @@ asm/
 crash-reports/
 icon.png
 options.txt
+*.dll
