@@ -1,8 +1,10 @@
 coremods/
 logs/
 mods/
-reosurcepacks/
+resourcepacks/
 saves/
 screenshots/
 texturepacks/
+asm/
 icon.png
+options.txt
